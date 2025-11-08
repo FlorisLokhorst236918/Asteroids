@@ -1,0 +1,86 @@
+[
+  {
+    "player_name": "Kinga",
+    "score": 5160,
+    "game_duration": 158.41,
+    "timestamp": "2025-11-07T11:37:41.697023",
+    "asteroids_destroyed": 73
+  },
+  {
+    "player_name": "Kinga",
+    "score": 9190,
+    "game_duration": 201.87,
+    "timestamp": "2025-11-07T11:47:18.241022",
+    "asteroids_destroyed": 129
+  },
+  {
+    "player_name": "Kinga",
+    "score": 10040,
+    "game_duration": 257.24,
+    "timestamp": "2025-11-07T11:51:38.231584",
+    "asteroids_destroyed": 139
+  },
+  {
+    "player_name": "Kinga",
+    "score": 11630,
+    "game_duration": 342.29,
+    "timestamp": "2025-11-07T11:57:27.751777",
+    "asteroids_destroyed": 158
+  },
+  {
+    "player_name": "Kinga",
+    "score": 12380,
+    "game_duration": 257.71,
+    "timestamp": "2025-11-07T12:02:27.398897",
+    "asteroids_destroyed": 172
+  },
+  {
+    "player_name": "Kinga",
+    "score": 13060,
+    "game_duration": 209.92,
+    "timestamp": "2025-11-07T12:14:32.756659",
+    "asteroids_destroyed": 179
+  },
+  {
+    "player_name": "Floris",
+    "score": 11830,
+    "game_duration": 127.88,
+    "timestamp": "2025-11-07T11:34:19.771605",
+    "asteroids_destroyed": 161
+  },
+  {
+    "player_name": "Floris",
+    "score": 18330,
+    "game_duration": 201.61,
+    "timestamp": "2025-11-07T11:38:22.602631",
+    "asteroids_destroyed": 251
+  },
+  {
+    "player_name": "Floris",
+    "score": 26680,
+    "game_duration": 279.06,
+    "timestamp": "2025-11-07T11:43:03.941068",
+    "asteroids_destroyed": 363
+  },
+  {
+    "player_name": "Floris",
+    "score": 18930,
+    "game_duration": 201.02,
+    "timestamp": "2025-11-07T11:47:33.222224",
+    "asteroids_destroyed": 258
+  },
+  {
+    "player_name": "Floris",
+    "score": 39460,
+    "game_duration": 362.46,
+    "timestamp": "2025-11-07T11:53:37.489147",
+    "asteroids_destroyed": 534
+  },
+  {
+    "player_name": "Floris",
+    "score": 19880,
+    "game_duration": 202.12,
+    "timestamp": "2025-11-07T11:57:03.563575",
+    "asteroids_destroyed": 269
+  }
+]
